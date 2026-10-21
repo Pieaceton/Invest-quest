@@ -1,0 +1,9 @@
+# Инвест-Квест (T-Bank Hackathon MVP)
+# UI & Визуализация
+streamlit>=1.35.0
+plotly>=5.20.0
+pandas>=2.0.0
+
+# AI-ядро
+openai>=1.30.0
+python-dotenv>=1.0.0
